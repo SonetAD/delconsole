@@ -1,0 +1,38 @@
+{
+  "name": "delconsole",
+  "version": "1.0.0",
+  "description": "DelConsole is a command-line tool for Node.js that recursively removes all console.log() statements from JavaScript, TypeScript, JSX, and TSX files in a specified directory, or the current directory if none is specified. This helps in cleaning up debug logs before deploying your application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "delconsole": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonetAD/delconsole.git"
+  },
+  "keywords": [
+    "remove-console",
+    "delete-console",
+    "clean-code",
+    "remove-console.log()",
+    "javascript",
+    "typescript",
+    "jsx",
+    "tsx",
+    "code-cleanup",
+    "production-ready",
+    "delconsole"
+  ],
+  "author": {
+    "name": "Sonet Adhikary",
+    "email": "sonet.ad101@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SonetAD/delconsole/issues"
+  },
+  "homepage": "https://github.com/SonetAD/delconsole#readme"
+}
