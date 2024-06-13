@@ -13,7 +13,7 @@ DelConsole is a powerful Node.js command-line interface (CLI) tool designed to s
 To install DelConsole globally on your system, run:
 
 ```console
-pm install -g delconsole `
+npm install -g delconsole `
 ```
 
 ## Usage
