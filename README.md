@@ -38,6 +38,14 @@ To remove all `console.log()` statements from the current directory and its subd
 delconsole
 ```
 
+### Running on the fly
+
+TO use delconsole without installing it,you can run
+
+```console
+npx delconsole
+```
+
 ## Contributing
 
 Contributions to DelConsole are welcome. Whether it's adding new features, improving existing ones, or fixing bugs, please feel free to submit pull requests or open issues on my [GitHub repository](https://github.com/SonetAD/delconsole)
