@@ -12,7 +12,9 @@ DelConsole is a powerful Node.js command-line interface (CLI) tool designed to s
 
 To install DelConsole globally on your system, run:
 
-`bash npm install -g delconsole `
+```console
+pm install -g delconsole `
+```
 
 ## Usage
 
@@ -22,15 +24,19 @@ After installing, you can start using DelConsole right away. Here are some basic
 
 To remove all `console.log()` statements from a specific folder, use the following syntax:
 
-`bash delconsole -path-your project folder
+```console
+delconsole -path-your project folder
+```
 
-Replace `path-to-your-project-file` with the actual path to the file you wish to process.
+Replace `path-to-your-project-folder` with the actual path to the folder you wish to process.
 
 ### Running Within the Current Project Folder
 
 To remove all `console.log()` statements from the current directory and its subdirectories, simply run:
 
-`bash delconsole
+```console
+delconsole
+```
 
 ## Contributing
 
